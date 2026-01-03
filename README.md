@@ -1,9 +1,7 @@
 <h2 align="left">
   Hi 👋! I'm Mohammad Bilal 😄  
   <br>
-  A Web Developer who writes bugs… and fixes them too 🐛✨  
-  <br>
-  💻 Runs on Coffee ☕
+  A Web Developer who writes bugs… and fixes them too 🐛✨ 💻 Runs on Coffee ☕
 </h2>
 
 <p align="left">
